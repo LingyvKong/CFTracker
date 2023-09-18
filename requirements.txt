@@ -1,0 +1,13 @@
+opencv-contrib-python
+opencv-python==3.3.1.11
+Cython
+numba
+progress
+matplotlib
+easydict
+scipy
+pyquaternion
+nuscenes-devkit
+pyyaml
+motmetrics
+scikit-learn==0.22.2
