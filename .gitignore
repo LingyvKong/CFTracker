@@ -3,7 +3,7 @@
 videos/
 *.zip
 */slurm-*.out
-results/*
+# results/*
 .idea/
 legacy/*
 models/*
