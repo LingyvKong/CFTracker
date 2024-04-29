@@ -9,6 +9,7 @@
 
 ## Installation
 Please refer to [INSTALL.md](readme/INSTALL.md) for installation instructions.
+My env: torch1.8.1 + cudnn 11.1
 
 
 ## Use CenterTrack
